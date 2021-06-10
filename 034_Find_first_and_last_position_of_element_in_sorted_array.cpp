@@ -65,7 +65,8 @@ public:
 
 /*
 
-perform two binary search
+perform two binary search first one tries to find the right part of the target number
+second one tries to find the left part of the target number
 
 Time Complexity
 O(logn)
